@@ -2,7 +2,7 @@
 
 A Xylophone app
 
-![alt text](screenshots//Users/admin/AndroidStudioProjects/xylophone_app/screenshots/Screen Shot 2020-10-15 at 5.34.48 PM.png "Description goes here")
+![alt text](screenshots/Users/admin/AndroidStudioProjects/xylophone_app/screenshots/Screen Shot 2020-10-15 at 5.34.48 PM.png "Description goes here")
 
 ## Getting Started
 
