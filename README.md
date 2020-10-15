@@ -2,6 +2,8 @@
 
 A Xylophone app
 
+![alt text](/Users/admin/Desktop/Screen Shot 2020-10-15 at 5.34.48 PM.png "Description goes here")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
